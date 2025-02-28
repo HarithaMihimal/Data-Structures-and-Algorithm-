@@ -4,7 +4,6 @@
 
 using namespace std;
 
-
 void insertion(vector <int> &arr){
     
     int num,j;
