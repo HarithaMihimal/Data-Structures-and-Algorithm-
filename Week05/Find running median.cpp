@@ -21,7 +21,7 @@ void insertion(vector <int> &arr){
 			cout<<arr[k]<<" ";
 		}
 		cout<<"    ";
-    
+
 }
 float get_median(vector<int> arr2){
     if (arr2.size()%2==1){
